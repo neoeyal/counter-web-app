@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'counter-web-app'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_c6cd8560f08b495ab9b868c56ecd69f0 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_0eab467e52984fd6aabb8e35f5a853f9 }}
         package: .
